@@ -21,5 +21,5 @@ RUN npm install -g mapshaper
 #WORKDIR /daf-QuAR
 EXPOSE 5000
 
-CMD [ "python3", "./portale.py" ]
+ENTRYPOINT [ "python3", "./portale.py" ]
 
