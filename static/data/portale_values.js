@@ -1,0 +1,1 @@
+var listaCentraline = [{'Francia':59},{'Preneste':72},{'Malagrotta':51},{'Villa Ada':52},{'Castel di Guido':45},{'Cavaliere':54},{'Fermi':42},{'Bufalotta':38},{'Cipro':50},{'Magna Grecia':50},{'Tiburtina':50},{'Arenula':56},{'Cinecitta':63},]

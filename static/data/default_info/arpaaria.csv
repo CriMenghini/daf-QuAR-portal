@@ -1,0 +1,42 @@
+Codice stazione;Provincia;Localita';Nome;Tipo;Latitudine;Longitudine;slm
+2;Roma;Roma;Preneste;Background Urbana;41.886.018;12.541.614;37
+3;Roma;Roma;Francia;Traffico Urbana;41.947.447;12.469.588;43
+5;Roma;Roma;Magna Grecia;Traffico Urbana;41.883.064;12.508.939;49
+8;Roma;Roma;Cinecitta;Background Urbana;41.857.720;12.568.665;53
+10;Roma;Colleferro;Colleferro-Oberdan;Industriale/Background Suburbana;41.730.840;13.004.350;219
+11;Roma;Colleferro;Colleferro-Europa;Industriale/Background Suburbana;41.725.010;13.009.575;223
+14;Roma;Allumiere;Allumiere;Background Rurale;42.157.741;11.908.744;542
+15;Roma;Civitavecchia;Civitavecchia;BackGround Urbana;42.091.629;11.802.466;26
+16;Roma;Guidonia;Guidonia;Traffico Suburbana;41.995.679;12.726.371;89
+17;Rieti;Rieti;Rieti 1;Traffico Urbana;42.404.093;12.858.224;397
+20;Latina;Latina;Via Tasso;Traffico Urbana;41.464.025;12.913.039;21
+23;Latina;Aprilia;Aprilia 2;Background Urbana;41.595.344;12.653.581;83
+27;Frosinone;Ceccano;Ceccano;Traffico Urbana;41.570.000;13.337.190;130
+28;Frosinone;Ferentino;Ferentino;Traffico Urbana;41.690.000;13.250.411;316
+29;Frosinone;Anagni;Anagni;Background Urbana;41.750.000;13.149.685;401
+32;Viterbo;Viterbo;Viterbo;Traffico Urbana;42.422.058;12.109.125;338
+35;Frosinone;Alatri;Alatri;Background Urbana;41.730.000;13.338.333;445
+36;Frosinone;Fontechiari;Fontechiari;Background Rurale;41.670.000;13.674.472;388
+37;Rieti;Leonessa;Leonessa;Background Rurale;42.572.593;12.961.982;948
+39;Roma;Roma;Villa Ada;Background Urbano;41.932.874;12.506.971;50
+40;Roma;Roma;Castel di Guido;Background Rurale;41.889.438;12.266.300;61
+41;Roma;Roma;Cavaliere;Background Suburbana;41.929.383;12.658.363;48
+45;Roma;Ciampino;Ciampino;Traffico Urbana;41.797.880;12.607.033;134
+47;Roma;Roma;Fermi;Traffico Urbana;41.864.194;12.469.531;26
+48;Roma;Roma;Bufalotta;Background Urbana;41.947.649;12.533.682;41
+49;Roma;Roma;Cipro;Background Urbana;41.906.358;12.447.596;31
+51;Latina;Latina-Scalo;Latina-Scalo;Traffico Urbana;41.531.431;12.946.064;18
+52;Frosinone;Cassino;Cassino;Traffico Urbana;41.490.000;13.830.690;41
+55;Roma;Roma;Tiburtina;Traffico Urbana;41.910.257;12.548.870;32
+56;Roma;Roma;Arenula;Background Urbana;41.894.020;12.475.368;31
+57;Roma;Roma;Malagrotta;Background Suburbana;41.874.894;12.345.598;n.d.
+59;Viterbo;Acquapendente;Acquapendente;Background Rurale;42.736.649;11.876.578;436
+60;Roma;Civitavecchia;Civ. Porto;Industriale;42.097.053;11.788.354;n.d.
+51;Latina;Gaeta;Gaeta;Background Urbana;41.223.074;13.570.481;4
+62;Frosinone;Frosinone scalo;Frosinone Scalo;Traffico Urbana;41.620.000;13.330.810;161
+63;Latina;Latina;Viale De Chirico;Traffico Urbana;41.451.131;12.891.731;21
+71;Frosinone;Frosinone;Frosinone Mazzini;Traffico Urbana;41.639.666;13.348.913;n.d.
+83;Roma;Civitavecchia;Civ. Villa Albani;Traffico Urbana;42.099.363;11.798.061;n.d.
+84;Roma;Civitavecchia;Civ. Via Morandi;Traffico Urbana;42.086.803;11.806.498;n.d.
+85;Roma;Civitavecchia;Civ. Via Roma;Traffico Urbana;42.094.147;11.795.509;n.d.
+90;Viterbo;Civita Castellana;Civita Castellana;Background Urbana;42.301.800;12.413.200;146
